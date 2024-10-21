@@ -1,0 +1,10 @@
+body.light {
+    background-color: #fff;
+    color: #000;
+    justify-content: center;
+}
+
+button {
+    background-color: #eee;
+    color: #000;
+}
